@@ -48,7 +48,7 @@ int main(int argc,char **argv)
   bool newton = false;
   bool hydrogens = false;
   bool   opt_h_only = false;
-  double c_occu = 0.01;
+  double c_occu = 100.0;
   double c_scale= 100.0;
   double c_fixed= -1.00;
   double rvdw = 6.0;
@@ -84,7 +84,7 @@ int main(int argc,char **argv)
     cout << endl;
     cout << "  ------ extra constraints -----" << endl;
     cout << "  -ho          optimize hydrogen only" << endl;
-    cout << "  -fc  0.01    constrained atoms with occupancy ！= 0.01,\n" // if occupancy = 0.01, then this atom is free
+    cout << "  -fc  0.01    constrained atoms with occupancy > 0.01,\n" // if occupancy = 0.01, then this atom is free
             "               and constraints factor were set to occupancy*constraint_factor_scale"  << endl;
     cout << "  -fsc 100     constraint factor scale" << endl;
     cout << "  -fix 1.00    atoms with occupancy = 1.00 to be fixed" << endl;
@@ -260,7 +260,7 @@ int main(int argc,char **argv)
           OBPairFloatingPoint *occup_fp = dynamic_cast<OBPairFloatingPoint*> ((*ii)->GetData("_atom_site_occupancy"));
           i_occupancy = occup_fp->GetGenericValue();
           constrained_factor = i_occupancy * c_scale;
-          if (i_occupancy != c_occu) {
+          if (i_occupancy > c_occu) {
               if(i_occupancy == c_fixed){
                   constraints.AddIgnore((*ii)->GetIdx());
                   //pFF->SetIgnoreAtom((*ii)->GetIdx());
