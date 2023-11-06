@@ -1,0 +1,438 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "lib/rsmiformat.so"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"install",
+			"target_link_libraries",
+			"add_definitions",
+			"include",
+			"set_property",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"src/formats/CMakeLists.txt",
+			"src/formats/libinchi/CMakeLists.txt",
+			"src/formats/formats.cmake",
+			"CMakeLists.txt",
+			"/opt/apps/com.jetbrains.clion/files/clion/bin/cmake/linux/x64/share/cmake-3.26/Modules/UsewxWidgets.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 38,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 41,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 17,
+				"parent" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 1,
+				"parent" : 0
+			},
+			{
+				"file" : 2,
+				"parent" : 6
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 191,
+				"parent" : 7
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 422,
+				"parent" : 9
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 169,
+				"parent" : 9
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 588,
+				"parent" : 9
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 182,
+				"parent" : 9
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 113,
+				"parent" : 9
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 181,
+				"parent" : 9
+			},
+			{
+				"file" : 4,
+				"parent" : 15
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 55,
+				"parent" : 16
+			},
+			{
+				"command" : 6,
+				"file" : 3,
+				"line" : 413,
+				"parent" : 9
+			},
+			{
+				"command" : 6,
+				"file" : 3,
+				"line" : 423,
+				"parent" : 9
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 171,
+				"parent" : 7
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 194,
+				"parent" : 7
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 228,
+				"parent" : 7
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 46,
+				"parent" : 16
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -pthread -g -D_GLIBCXX_DEBUG -g3 -fno-inline -std=gnu++11 -fPIC -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 8,
+					"define" : "BUILD_LINK_AS_DLL"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "HAVE_EIGEN"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "HAVE_EIGEN3"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "HAVE_LIBZ"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "HAVE_RAPIDJSON"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "HAVE_WXWIDGETS"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "USING_DYNAMIC_LIBS"
+				},
+				{
+					"backtrace" : 17,
+					"define" : "WXUSINGDLL"
+				},
+				{
+					"backtrace" : 17,
+					"define" : "_FILE_OFFSET_BITS=64"
+				},
+				{
+					"backtrace" : 17,
+					"define" : "__WXGTK__"
+				},
+				{
+					"define" : "rsmiformat_EXPORTS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 18,
+					"path" : "/home/biocheming/tests/openbabel-master/cmake-build-debug/include"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "/home/biocheming/tests/openbabel-master/data"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "/home/biocheming/tests/openbabel-master/cmake-build-debug/data"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "/home/biocheming/tests/openbabel-master/include"
+				},
+				{
+					"backtrace" : 19,
+					"path" : "/usr/include/eigen3"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "/usr/include/cairo"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "/home/biocheming/tests/openbabel-master/include/inchi"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "/usr/include/libxml2"
+				},
+				{
+					"backtrace" : 23,
+					"isSystem" : true,
+					"path" : "/usr/lib/x86_64-linux-gnu/wx/include/gtk2-unicode-3.0"
+				},
+				{
+					"backtrace" : 23,
+					"isSystem" : true,
+					"path" : "/usr/include/wx-3.0"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "openbabel::@145eef247bfb46b6828c"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "inchi::@bc507fd2421f27b6f738"
+		}
+	],
+	"id" : "rsmiformat::@cc305606fd9805a9d025",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 2,
+				"path" : "lib/openbabel/3.1.1"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/usr/local"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-Wl,--enable-new-dtags -Wl,--enable-new-dtags -Wl,--fatal-warnings -Wl,--no-undefined -lc",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/home/biocheming/tests/openbabel-master/cmake-build-debug/lib:/usr/local/lib:",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "/usr/local/lib/libmaeparser.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "/usr/local/lib/libcoordgen.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lm",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-ldl",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lz",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lcairo",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "lib/libinchi.so.0.4.1",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-lm",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "lib/libopenbabel.so.7.0.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "/usr/local/lib/libmaeparser.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "/usr/local/lib/libcoordgen.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lm",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-ldl",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lz",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lcairo",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-lc",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-lm",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "rsmiformat",
+	"nameOnDisk" : "rsmiformat.so",
+	"paths" : 
+	{
+		"build" : "src/formats",
+		"source" : "src/formats"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/formats/rsmiformat.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "cmake-build-debug/include/openbabel/babelconfig.h",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "MODULE_LIBRARY"
+}

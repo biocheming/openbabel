@@ -1,0 +1,104 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 404,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 409,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 718,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 722,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/openbabel3/openbabel",
+			"paths" : 
+			[
+				"cmake-build-debug/include/openbabel/babelconfig.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"cmake-build-debug/openbabel-3.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Development",
+			"destination" : "lib/cmake/openbabel3",
+			"exportName" : "openbabel-targets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "openbabel::@145eef247bfb46b6828c",
+					"index" : 131
+				},
+				{
+					"id" : "inchi::@bc507fd2421f27b6f738",
+					"index" : 90
+				}
+			],
+			"paths" : 
+			[
+				"CMakeFiles/Export/1d1c8b465651080a669507d8c136405f/OpenBabel3_EXPORTS.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Development",
+			"destination" : "lib/cmake/openbabel3",
+			"paths" : 
+			[
+				"cmake-build-debug/OpenBabel3Config.cmake",
+				"cmake-build-debug/OpenBabel3ConfigVersion.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	}
+}

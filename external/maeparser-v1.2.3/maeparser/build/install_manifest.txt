@@ -1,0 +1,12 @@
+/usr/local/lib/libmaeparser.so.1.2.3
+/usr/local/lib/libmaeparser.so.1
+/usr/local/lib/libmaeparser.so
+/usr/local/lib/cmake/maeparser-config.cmake
+/usr/local/lib/cmake/maeparser-config-noconfig.cmake
+/usr/local/include/maeparser/Buffer.hpp
+/usr/local/include/maeparser/MaeBlock.hpp
+/usr/local/include/maeparser/MaeConstants.hpp
+/usr/local/include/maeparser/MaeParser.hpp
+/usr/local/include/maeparser/MaeParserConfig.hpp
+/usr/local/include/maeparser/Reader.hpp
+/usr/local/include/maeparser/Writer.hpp

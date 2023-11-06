@@ -1,0 +1,369 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"tools/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 45,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 45,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 45,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 45,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 45,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 45,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 45,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 45,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 45,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 45,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 45,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 45,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 45,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 45,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 45,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 45,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 65,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 65,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 65,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/obabel"
+			],
+			"targetId" : "obabel::@b9a00e55f22b3d77656c",
+			"targetIndex" : 111,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/obconformer"
+			],
+			"targetId" : "obconformer::@b9a00e55f22b3d77656c",
+			"targetIndex" : 112,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/obenergy"
+			],
+			"targetId" : "obenergy::@b9a00e55f22b3d77656c",
+			"targetIndex" : 114,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/obfit"
+			],
+			"targetId" : "obfit::@b9a00e55f22b3d77656c",
+			"targetIndex" : 115,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/obfitall"
+			],
+			"targetId" : "obfitall::@b9a00e55f22b3d77656c",
+			"targetIndex" : 116,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/obgen"
+			],
+			"targetId" : "obgen::@b9a00e55f22b3d77656c",
+			"targetIndex" : 117,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/obminimize"
+			],
+			"targetId" : "obminimize::@b9a00e55f22b3d77656c",
+			"targetIndex" : 120,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/obmm"
+			],
+			"targetId" : "obmm::@b9a00e55f22b3d77656c",
+			"targetIndex" : 121,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/obprobe"
+			],
+			"targetId" : "obprobe::@b9a00e55f22b3d77656c",
+			"targetIndex" : 122,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/obprop"
+			],
+			"targetId" : "obprop::@b9a00e55f22b3d77656c",
+			"targetIndex" : 123,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/obrotamer"
+			],
+			"targetId" : "obrotamer::@b9a00e55f22b3d77656c",
+			"targetIndex" : 125,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/obrotate"
+			],
+			"targetId" : "obrotate::@b9a00e55f22b3d77656c",
+			"targetIndex" : 126,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/obsym"
+			],
+			"targetId" : "obsym::@b9a00e55f22b3d77656c",
+			"targetIndex" : 128,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/obtautomer"
+			],
+			"targetId" : "obtautomer::@b9a00e55f22b3d77656c",
+			"targetIndex" : 129,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/obthermo"
+			],
+			"targetId" : "obthermo::@b9a00e55f22b3d77656c",
+			"targetIndex" : 130,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/obdistgen"
+			],
+			"targetId" : "obdistgen::@b9a00e55f22b3d77656c",
+			"targetIndex" : 113,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/obgrep"
+			],
+			"targetId" : "obgrep::@b9a00e55f22b3d77656c",
+			"targetIndex" : 118,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/obspectrophore"
+			],
+			"targetId" : "obspectrophore::@b9a00e55f22b3d77656c",
+			"targetIndex" : 127,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/obrms"
+			],
+			"targetId" : "obrms::@b9a00e55f22b3d77656c",
+			"targetIndex" : 124,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "tools",
+		"source" : "tools"
+	}
+}

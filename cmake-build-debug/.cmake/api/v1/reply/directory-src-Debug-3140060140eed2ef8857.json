@@ -1,0 +1,150 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 280,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 293,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 293,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 293,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 293,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 293,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"lib/libopenbabel.so.7.0.0",
+				"lib/libopenbabel.so.7"
+			],
+			"targetId" : "openbabel::@145eef247bfb46b6828c",
+			"targetIndex" : 131,
+			"targetInstallNamelink" : "skip",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"lib/libopenbabel.so"
+			],
+			"targetId" : "openbabel::@145eef247bfb46b6828c",
+			"targetIndex" : 131,
+			"targetInstallNamelink" : "only",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/plugin_descriptors.so"
+			],
+			"targetId" : "plugin_descriptors::@145eef247bfb46b6828c",
+			"targetIndex" : 140,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/plugin_fingerprints.so"
+			],
+			"targetId" : "plugin_fingerprints::@145eef247bfb46b6828c",
+			"targetIndex" : 141,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/plugin_forcefields.so"
+			],
+			"targetId" : "plugin_forcefields::@145eef247bfb46b6828c",
+			"targetIndex" : 142,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/plugin_ops.so"
+			],
+			"targetId" : "plugin_ops::@145eef247bfb46b6828c",
+			"targetIndex" : 143,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/plugin_charges.so"
+			],
+			"targetId" : "plugin_charges::@145eef247bfb46b6828c",
+			"targetIndex" : 139,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src",
+		"source" : "src"
+	}
+}

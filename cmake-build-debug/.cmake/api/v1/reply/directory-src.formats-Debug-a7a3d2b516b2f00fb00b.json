@@ -1,0 +1,2259 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"src/formats/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 92,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 92,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 92,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 92,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 92,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 107,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 107,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 107,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/smilesformat.so"
+			],
+			"targetId" : "smilesformat::@cc305606fd9805a9d025",
+			"targetIndex" : 161,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/mdlformat.so"
+			],
+			"targetId" : "mdlformat::@cc305606fd9805a9d025",
+			"targetIndex" : 97,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/mol2format.so"
+			],
+			"targetId" : "mol2format::@cc305606fd9805a9d025",
+			"targetIndex" : 100,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/pdbformat.so"
+			],
+			"targetId" : "pdbformat::@cc305606fd9805a9d025",
+			"targetIndex" : 137,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/inchiformat.so"
+			],
+			"targetId" : "inchiformat::@cc305606fd9805a9d025",
+			"targetIndex" : 91,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/asciiformat.so"
+			],
+			"targetId" : "asciiformat::@cc305606fd9805a9d025",
+			"targetIndex" : 40,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/copyformat.so"
+			],
+			"targetId" : "copyformat::@cc305606fd9805a9d025",
+			"targetIndex" : 62,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/MNAformat.so"
+			],
+			"targetId" : "MNAformat::@cc305606fd9805a9d025",
+			"targetIndex" : 21,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/molreport.so"
+			],
+			"targetId" : "molreport::@cc305606fd9805a9d025",
+			"targetIndex" : 103,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/nulformat.so"
+			],
+			"targetId" : "nulformat::@cc305606fd9805a9d025",
+			"targetIndex" : 109,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/painterformat.so"
+			],
+			"targetId" : "painterformat::@cc305606fd9805a9d025",
+			"targetIndex" : 135,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/povrayformat.so"
+			],
+			"targetId" : "povrayformat::@cc305606fd9805a9d025",
+			"targetIndex" : 148,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/reportformat.so"
+			],
+			"targetId" : "reportformat::@cc305606fd9805a9d025",
+			"targetIndex" : 154,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/svgformat.so"
+			],
+			"targetId" : "svgformat::@cc305606fd9805a9d025",
+			"targetIndex" : 164,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/textformat.so"
+			],
+			"targetId" : "textformat::@cc305606fd9805a9d025",
+			"targetIndex" : 167,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/titleformat.so"
+			],
+			"targetId" : "titleformat::@cc305606fd9805a9d025",
+			"targetIndex" : 170,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/confabreport.so"
+			],
+			"targetId" : "confabreport::@cc305606fd9805a9d025",
+			"targetIndex" : 61,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/pngformat.so"
+			],
+			"targetId" : "pngformat::@cc305606fd9805a9d025",
+			"targetIndex" : 145,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/acesformat.so"
+			],
+			"targetId" : "acesformat::@cc305606fd9805a9d025",
+			"targetIndex" : 34,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 20,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/abinitformat.so"
+			],
+			"targetId" : "abinitformat::@cc305606fd9805a9d025",
+			"targetIndex" : 33,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 21,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/adfformat.so"
+			],
+			"targetId" : "adfformat::@cc305606fd9805a9d025",
+			"targetIndex" : 36,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 22,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/aoforceformat.so"
+			],
+			"targetId" : "aoforceformat::@cc305606fd9805a9d025",
+			"targetIndex" : 39,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 23,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/castepformat.so"
+			],
+			"targetId" : "castepformat::@cc305606fd9805a9d025",
+			"targetIndex" : 47,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 24,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/crystal09format.so"
+			],
+			"targetId" : "crystal09format::@cc305606fd9805a9d025",
+			"targetIndex" : 64,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 25,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/daltonformat.so"
+			],
+			"targetId" : "daltonformat::@cc305606fd9805a9d025",
+			"targetIndex" : 66,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 26,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/dmolformat.so"
+			],
+			"targetId" : "dmolformat::@cc305606fd9805a9d025",
+			"targetIndex" : 69,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 27,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/fchkformat.so"
+			],
+			"targetId" : "fchkformat::@cc305606fd9805a9d025",
+			"targetIndex" : 73,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 28,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/fhiaimsformat.so"
+			],
+			"targetId" : "fhiaimsformat::@cc305606fd9805a9d025",
+			"targetIndex" : 76,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 29,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/gamessformat.so"
+			],
+			"targetId" : "gamessformat::@cc305606fd9805a9d025",
+			"targetIndex" : 80,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 30,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/gaussformat.so"
+			],
+			"targetId" : "gaussformat::@cc305606fd9805a9d025",
+			"targetIndex" : 83,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 31,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/gausscubeformat.so"
+			],
+			"targetId" : "gausscubeformat::@cc305606fd9805a9d025",
+			"targetIndex" : 82,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 32,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/gausszmatformat.so"
+			],
+			"targetId" : "gausszmatformat::@cc305606fd9805a9d025",
+			"targetIndex" : 84,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 33,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/gulpformat.so"
+			],
+			"targetId" : "gulpformat::@cc305606fd9805a9d025",
+			"targetIndex" : 88,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 34,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/hinformat.so"
+			],
+			"targetId" : "hinformat::@cc305606fd9805a9d025",
+			"targetIndex" : 89,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 35,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/jaguarformat.so"
+			],
+			"targetId" : "jaguarformat::@cc305606fd9805a9d025",
+			"targetIndex" : 92,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 36,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/molproformat.so"
+			],
+			"targetId" : "molproformat::@cc305606fd9805a9d025",
+			"targetIndex" : 102,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 37,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/mopacformat.so"
+			],
+			"targetId" : "mopacformat::@cc305606fd9805a9d025",
+			"targetIndex" : 104,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 38,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/nwchemformat.so"
+			],
+			"targetId" : "nwchemformat::@cc305606fd9805a9d025",
+			"targetIndex" : 110,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 39,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/pwscfformat.so"
+			],
+			"targetId" : "pwscfformat::@cc305606fd9805a9d025",
+			"targetIndex" : 152,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 40,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/qchemformat.so"
+			],
+			"targetId" : "qchemformat::@cc305606fd9805a9d025",
+			"targetIndex" : 153,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 41,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/siestaformat.so"
+			],
+			"targetId" : "siestaformat::@cc305606fd9805a9d025",
+			"targetIndex" : 160,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 42,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/turbomoleformat.so"
+			],
+			"targetId" : "turbomoleformat::@cc305606fd9805a9d025",
+			"targetIndex" : 171,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 43,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/vaspformat.so"
+			],
+			"targetId" : "vaspformat::@cc305606fd9805a9d025",
+			"targetIndex" : 174,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 44,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/xsfformat.so"
+			],
+			"targetId" : "xsfformat::@cc305606fd9805a9d025",
+			"targetIndex" : 179,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 45,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/zindoformat.so"
+			],
+			"targetId" : "zindoformat::@cc305606fd9805a9d025",
+			"targetIndex" : 183,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 46,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/maeformat.so"
+			],
+			"targetId" : "maeformat::@cc305606fd9805a9d025",
+			"targetIndex" : 95,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 47,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/gamessukformat.so"
+			],
+			"targetId" : "gamessukformat::@cc305606fd9805a9d025",
+			"targetIndex" : 81,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 48,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/orcaformat.so"
+			],
+			"targetId" : "orcaformat::@cc305606fd9805a9d025",
+			"targetIndex" : 133,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 49,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/APIInterface.so"
+			],
+			"targetId" : "APIInterface::@cc305606fd9805a9d025",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 50,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/CSRformat.so"
+			],
+			"targetId" : "CSRformat::@cc305606fd9805a9d025",
+			"targetIndex" : 1,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 51,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/PQSformat.so"
+			],
+			"targetId" : "PQSformat::@cc305606fd9805a9d025",
+			"targetIndex" : 32,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 52,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/MCDLformat.so"
+			],
+			"targetId" : "MCDLformat::@cc305606fd9805a9d025",
+			"targetIndex" : 20,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 53,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/alchemyformat.so"
+			],
+			"targetId" : "alchemyformat::@cc305606fd9805a9d025",
+			"targetIndex" : 37,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 54,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/acrformat.so"
+			],
+			"targetId" : "acrformat::@cc305606fd9805a9d025",
+			"targetIndex" : 35,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 55,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/amberformat.so"
+			],
+			"targetId" : "amberformat::@cc305606fd9805a9d025",
+			"targetIndex" : 38,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 56,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/balstformat.so"
+			],
+			"targetId" : "balstformat::@cc305606fd9805a9d025",
+			"targetIndex" : 41,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 57,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/bgfformat.so"
+			],
+			"targetId" : "bgfformat::@cc305606fd9805a9d025",
+			"targetIndex" : 42,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 58,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/boxformat.so"
+			],
+			"targetId" : "boxformat::@cc305606fd9805a9d025",
+			"targetIndex" : 43,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 59,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/cacaoformat.so"
+			],
+			"targetId" : "cacaoformat::@cc305606fd9805a9d025",
+			"targetIndex" : 44,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 60,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/cacheformat.so"
+			],
+			"targetId" : "cacheformat::@cc305606fd9805a9d025",
+			"targetIndex" : 45,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 61,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/carformat.so"
+			],
+			"targetId" : "carformat::@cc305606fd9805a9d025",
+			"targetIndex" : 46,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/cccformat.so"
+			],
+			"targetId" : "cccformat::@cc305606fd9805a9d025",
+			"targetIndex" : 48,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 63,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/chem3dformat.so"
+			],
+			"targetId" : "chem3dformat::@cc305606fd9805a9d025",
+			"targetIndex" : 50,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 64,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/chemdrawcdx.so"
+			],
+			"targetId" : "chemdrawcdx::@cc305606fd9805a9d025",
+			"targetIndex" : 52,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 65,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/chemdrawct.so"
+			],
+			"targetId" : "chemdrawct::@cc305606fd9805a9d025",
+			"targetIndex" : 53,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 66,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/chemkinformat.so"
+			],
+			"targetId" : "chemkinformat::@cc305606fd9805a9d025",
+			"targetIndex" : 55,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 67,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/chemtoolformat.so"
+			],
+			"targetId" : "chemtoolformat::@cc305606fd9805a9d025",
+			"targetIndex" : 56,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 68,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/cifformat.so"
+			],
+			"targetId" : "cifformat::@cc305606fd9805a9d025",
+			"targetIndex" : 57,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 69,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/cofformat.so"
+			],
+			"targetId" : "cofformat::@cc305606fd9805a9d025",
+			"targetIndex" : 60,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 70,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/crkformat.so"
+			],
+			"targetId" : "crkformat::@cc305606fd9805a9d025",
+			"targetIndex" : 63,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 71,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/cssrformat.so"
+			],
+			"targetId" : "cssrformat::@cc305606fd9805a9d025",
+			"targetIndex" : 65,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 72,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/dlpolyformat.so"
+			],
+			"targetId" : "dlpolyformat::@cc305606fd9805a9d025",
+			"targetIndex" : 68,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 73,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/exyzformat.so"
+			],
+			"targetId" : "exyzformat::@cc305606fd9805a9d025",
+			"targetIndex" : 70,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 74,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/fastsearchformat.so"
+			],
+			"targetId" : "fastsearchformat::@cc305606fd9805a9d025",
+			"targetIndex" : 72,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 75,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/fastaformat.so"
+			],
+			"targetId" : "fastaformat::@cc305606fd9805a9d025",
+			"targetIndex" : 71,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 76,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/featformat.so"
+			],
+			"targetId" : "featformat::@cc305606fd9805a9d025",
+			"targetIndex" : 74,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 77,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/fhformat.so"
+			],
+			"targetId" : "fhformat::@cc305606fd9805a9d025",
+			"targetIndex" : 75,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 78,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/fingerprintformat.so"
+			],
+			"targetId" : "fingerprintformat::@cc305606fd9805a9d025",
+			"targetIndex" : 77,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 79,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/fpsformat.so"
+			],
+			"targetId" : "fpsformat::@cc305606fd9805a9d025",
+			"targetIndex" : 78,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 80,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/freefracformat.so"
+			],
+			"targetId" : "freefracformat::@cc305606fd9805a9d025",
+			"targetIndex" : 79,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 81,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/ghemicalformat.so"
+			],
+			"targetId" : "ghemicalformat::@cc305606fd9805a9d025",
+			"targetIndex" : 85,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 82,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/gromos96format.so"
+			],
+			"targetId" : "gromos96format::@cc305606fd9805a9d025",
+			"targetIndex" : 87,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 83,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/groformat.so"
+			],
+			"targetId" : "groformat::@cc305606fd9805a9d025",
+			"targetIndex" : 86,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 84,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/lmpdatformat.so"
+			],
+			"targetId" : "lmpdatformat::@cc305606fd9805a9d025",
+			"targetIndex" : 93,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 85,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/lpmdformat.so"
+			],
+			"targetId" : "lpmdformat::@cc305606fd9805a9d025",
+			"targetIndex" : 94,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 86,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/mdffformat.so"
+			],
+			"targetId" : "mdffformat::@cc305606fd9805a9d025",
+			"targetIndex" : 96,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 87,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/mmcifformat.so"
+			],
+			"targetId" : "mmcifformat::@cc305606fd9805a9d025",
+			"targetIndex" : 98,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 88,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/mmodformat.so"
+			],
+			"targetId" : "mmodformat::@cc305606fd9805a9d025",
+			"targetIndex" : 99,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 89,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/moldenformat.so"
+			],
+			"targetId" : "moldenformat::@cc305606fd9805a9d025",
+			"targetIndex" : 101,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 90,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/mpdformat.so"
+			],
+			"targetId" : "mpdformat::@cc305606fd9805a9d025",
+			"targetIndex" : 105,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 91,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/mpqcformat.so"
+			],
+			"targetId" : "mpqcformat::@cc305606fd9805a9d025",
+			"targetIndex" : 106,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 92,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/msiformat.so"
+			],
+			"targetId" : "msiformat::@cc305606fd9805a9d025",
+			"targetIndex" : 107,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 93,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/msmsformat.so"
+			],
+			"targetId" : "msmsformat::@cc305606fd9805a9d025",
+			"targetIndex" : 108,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 94,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/opendxformat.so"
+			],
+			"targetId" : "opendxformat::@cc305606fd9805a9d025",
+			"targetIndex" : 132,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 95,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/outformat.so"
+			],
+			"targetId" : "outformat::@cc305606fd9805a9d025",
+			"targetIndex" : 134,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 96,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/pcmodelformat.so"
+			],
+			"targetId" : "pcmodelformat::@cc305606fd9805a9d025",
+			"targetIndex" : 136,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 97,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/pdbqtformat.so"
+			],
+			"targetId" : "pdbqtformat::@cc305606fd9805a9d025",
+			"targetIndex" : 138,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 98,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/pointcloudformat.so"
+			],
+			"targetId" : "pointcloudformat::@cc305606fd9805a9d025",
+			"targetIndex" : 146,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 99,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/posformat.so"
+			],
+			"targetId" : "posformat::@cc305606fd9805a9d025",
+			"targetIndex" : 147,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 100,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/pqrformat.so"
+			],
+			"targetId" : "pqrformat::@cc305606fd9805a9d025",
+			"targetIndex" : 149,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 101,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/rinchiformat.so"
+			],
+			"targetId" : "rinchiformat::@cc305606fd9805a9d025",
+			"targetIndex" : 155,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 102,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/rsmiformat.so"
+			],
+			"targetId" : "rsmiformat::@cc305606fd9805a9d025",
+			"targetIndex" : 157,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 103,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/rxnformat.so"
+			],
+			"targetId" : "rxnformat::@cc305606fd9805a9d025",
+			"targetIndex" : 158,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 104,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/shelxformat.so"
+			],
+			"targetId" : "shelxformat::@cc305606fd9805a9d025",
+			"targetIndex" : 159,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 105,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/smileyformat.so"
+			],
+			"targetId" : "smileyformat::@cc305606fd9805a9d025",
+			"targetIndex" : 162,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 106,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/stlformat.so"
+			],
+			"targetId" : "stlformat::@cc305606fd9805a9d025",
+			"targetIndex" : 163,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 107,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/thermoformat.so"
+			],
+			"targetId" : "thermoformat::@cc305606fd9805a9d025",
+			"targetIndex" : 168,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 108,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/tinkerformat.so"
+			],
+			"targetId" : "tinkerformat::@cc305606fd9805a9d025",
+			"targetIndex" : 169,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 109,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/unichemformat.so"
+			],
+			"targetId" : "unichemformat::@cc305606fd9805a9d025",
+			"targetIndex" : 172,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 110,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/viewmolformat.so"
+			],
+			"targetId" : "viewmolformat::@cc305606fd9805a9d025",
+			"targetIndex" : 175,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 111,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/wlnformat.so"
+			],
+			"targetId" : "wlnformat::@cc305606fd9805a9d025",
+			"targetIndex" : 176,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 112,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/xedformat.so"
+			],
+			"targetId" : "xedformat::@cc305606fd9805a9d025",
+			"targetIndex" : 177,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 113,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/xyzformat.so"
+			],
+			"targetId" : "xyzformat::@cc305606fd9805a9d025",
+			"targetIndex" : 181,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 114,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/yasaraformat.so"
+			],
+			"targetId" : "yasaraformat::@cc305606fd9805a9d025",
+			"targetIndex" : 182,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 115,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/xtcformat.so"
+			],
+			"targetId" : "xtcformat::@cc305606fd9805a9d025",
+			"targetIndex" : 180,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 116,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/png2format.so"
+			],
+			"targetId" : "png2format::@cc305606fd9805a9d025",
+			"targetIndex" : 144,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 117,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/cdxmlformat.so"
+			],
+			"targetId" : "cdxmlformat::@cc305606fd9805a9d025",
+			"targetIndex" : 49,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 118,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/cmlformat.so"
+			],
+			"targetId" : "cmlformat::@cc305606fd9805a9d025",
+			"targetIndex" : 58,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 119,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/cmlreactformat.so"
+			],
+			"targetId" : "cmlreactformat::@cc305606fd9805a9d025",
+			"targetIndex" : 59,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 120,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/pubchem.so"
+			],
+			"targetId" : "pubchem::@cc305606fd9805a9d025",
+			"targetIndex" : 150,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 121,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/xmlformat.so"
+			],
+			"targetId" : "xmlformat::@cc305606fd9805a9d025",
+			"targetIndex" : 178,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 122,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/chemdoodlejsonformat.so"
+			],
+			"targetId" : "chemdoodlejsonformat::@cc305606fd9805a9d025",
+			"targetIndex" : 51,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 123,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/chemicaljsonformat.so"
+			],
+			"targetId" : "chemicaljsonformat::@cc305606fd9805a9d025",
+			"targetIndex" : 54,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 124,
+			"component" : "Unspecified",
+			"destination" : "lib/openbabel/3.1.1",
+			"paths" : 
+			[
+				"lib/pubchemjsonformat.so"
+			],
+			"targetId" : "pubchemjsonformat::@cc305606fd9805a9d025",
+			"targetIndex" : 151,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/formats",
+		"source" : "src/formats"
+	}
+}

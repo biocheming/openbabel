@@ -1,0 +1,96 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"data/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 61,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "share/openbabel/3.1.1",
+			"paths" : 
+			[
+				"data/atomization-energies.txt",
+				"data/atomtyp.txt",
+				"data/babel_povray3.inc",
+				"data/bondtyp.txt",
+				"data/eem.txt",
+				"data/eem2015ba.txt",
+				"data/eem2015bm.txt",
+				"data/eem2015bn.txt",
+				"data/eem2015ha.txt",
+				"data/eem2015hm.txt",
+				"data/eem2015hn.txt",
+				"data/eqeqIonizations.txt",
+				"data/gaff.dat",
+				"data/gaff.prm",
+				"data/ghemical.prm",
+				"data/logp.txt",
+				"data/MACCS.txt",
+				"data/mmff94.ff",
+				"data/mmff94s.ff",
+				"data/mmffang.par",
+				"data/mmffbndk.par",
+				"data/mmffbond.par",
+				"data/mmffchg.par",
+				"data/mmffdef.par",
+				"data/mmffdfsb.par",
+				"data/mmffoop.par",
+				"data/mmffpbci.par",
+				"data/mmffprop.par",
+				"data/mmffstbn.par",
+				"data/mmfftor.par",
+				"data/mmffvdw.par",
+				"data/mmffs_oop.par",
+				"data/mmffs_tor.par",
+				"data/mpC.txt",
+				"data/mr.txt",
+				"data/patterns.txt",
+				"data/phmodel.txt",
+				"data/plugindefines.txt",
+				"data/psa.txt",
+				"data/qeq.txt",
+				"data/resdata.txt",
+				"data/rigid-fragments.txt",
+				"data/rigid-fragments-index.txt",
+				"data/ring-fragments.txt",
+				"data/ringtyp.txt",
+				"data/SMARTS_InteLigand.txt",
+				"data/space-groups.txt",
+				"data/superatom.txt",
+				"data/svgformat.script",
+				"data/templates.sdf",
+				"data/torlib.txt",
+				"data/torsion.txt",
+				"data/types.txt",
+				"data/UFF.prm"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "data",
+		"source" : "data"
+	}
+}

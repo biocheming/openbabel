@@ -1,0 +1,78 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"doc/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 4,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "share/man/man1",
+			"paths" : 
+			[
+				"doc/obabel.1",
+				"doc/obchiral.1",
+				"doc/obconformer.1",
+				"doc/obdistgen.1",
+				"doc/obenergy.1",
+				"doc/obfit.1",
+				"doc/obgen.1",
+				"doc/obgrep.1",
+				"doc/obgui.1",
+				"doc/obminimize.1",
+				"doc/obprobe.1",
+				"doc/obprop.1",
+				"doc/obrms.1",
+				"doc/obrotamer.1",
+				"doc/obrotate.1",
+				"doc/obspectrophore.1",
+				"doc/obsym.1",
+				"doc/obtautomer.1",
+				"doc/obthermo.1",
+				"doc/roundtrip.1"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "share/openbabel/3.1.1",
+			"paths" : 
+			[
+				"doc/splash.png"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "doc",
+		"source" : "doc"
+	}
+}

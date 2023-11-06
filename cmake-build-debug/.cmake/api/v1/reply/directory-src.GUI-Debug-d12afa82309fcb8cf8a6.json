@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"src/GUI/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 9,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/obgui"
+			],
+			"targetId" : "obgui::@3e1515d563de2a4c15f4",
+			"targetIndex" : 119,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/GUI",
+		"source" : "src/GUI"
+	}
+}

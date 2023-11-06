@@ -1,0 +1,114 @@
+/opt/apps/com.jetbrains.clion/files/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/apps/com.jetbrains.clion/files/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/biocheming/tests/openbabel-master -B /home/biocheming/tests/openbabel-master/cmake-build-debug
+-- The C compiler identification is GNU 8.3.0
+-- The CXX compiler identification is GNU 8.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Deprecation Warning at CMakeLists.txt:14 (cmake_policy):
+  The OLD behavior for policy CMP0042 will be removed from a future version
+  of CMake.
+
+  The cmake-policies(7) manual explains that the OLD behaviors of all
+  policies are deprecated and that a policy should be set to OLD only under
+  specific short-term circumstances.  Projects should be ported to the NEW
+  behavior and not rely on setting a policy to OLD.
+
+
+-- Using included inchi library.
+-- Found LibXml2: /usr/lib/x86_64-linux-gnu/libxml2.so (found version "2.9.4") 
+-- Found ZLIB: /usr/lib/x86_64-linux-gnu/libz.so (found version "1.2.11")  
+-- Found wxWidgets: -L/usr/lib/x86_64-linux-gnu;-pthread;;;-lwx_baseu-3.0;-lwx_gtk2u_core-3.0;-lwx_gtk2u_adv-3.0 (found version "3.0.4") 
+-- Looking for conio.h
+-- Looking for conio.h - not found
+-- Looking for sys/time.h
+-- Looking for sys/time.h - found
+-- Looking for time.h
+-- Looking for time.h - found
+-- Looking for strings.h
+-- Looking for strings.h - found
+-- Looking for rpc/xdr.h
+-- Looking for rpc/xdr.h - found
+-- Looking for regex.h
+-- Looking for regex.h - found
+-- Looking for C++ include sstream
+-- Looking for C++ include sstream - found
+-- Looking for rint
+-- Looking for rint - not found
+-- Looking for snprintf
+-- Looking for snprintf - found
+-- Looking for sranddev
+-- Looking for sranddev - not found
+-- Looking for strcasecmp
+-- Looking for strcasecmp - found
+-- Looking for strncasecmp
+-- Looking for strncasecmp - found
+-- Looking for dlopen in dl
+-- Looking for dlopen in dl - found
+-- Looking for sys/types.h
+-- Looking for sys/types.h - found
+-- Looking for stdint.h
+-- Looking for stdint.h - found
+-- Looking for stddef.h
+-- Looking for stddef.h - found
+-- Check size of clock_t
+-- Check size of clock_t - done
+-- Performing Test SCANDIR_NEEDS_CONST
+-- Performing Test SCANDIR_NEEDS_CONST - Failed
+-- Performing Test HAVE_GCC_VISIBILITY
+-- Performing Test HAVE_GCC_VISIBILITY - Success
+Using built-in specs.
+COLLECT_GCC=/usr/bin/cc
+COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/8/lto-wrapper
+OFFLOAD_TARGET_NAMES=nvptx-none
+OFFLOAD_TARGET_DEFAULT=1
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Uos 8.3.0.3-3+rebuild' --with-bugurl=file:///usr/share/doc/gcc-8/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++ --prefix=/usr --with-gcc-major-version-only --program-suffix=-8 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-bootstrap --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-libmpx --enable-plugin --with-system-zlib --with-target-system-zlib --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 8.3.0 (Uos 8.3.0.3-3+rebuild) 
+-- Found Boost: /usr/include (found version "1.67.0") found components: program_options iostreams regex 
+-- Found Eigen3: /usr/include/eigen3 (Required is at least version "2.91.0") 
+-- Found Boost: /usr/include (found version "1.67.0") found components: filesystem iostreams unit_test_framework system regex 
+-- maeparser include dir set as '/usr/local/include'
+-- maeparser libraries set as '/usr/local/lib/libmaeparser.so'
+-- Maestro formats will be supported. Using MaeParser libraries at /usr/local/lib/libmaeparser.so.
+-- coordgen include dir set as /usr/local/include
+-- coordgen libraries set as '/usr/local/lib/libcoordgen.so'
+-- Coordinate generation with Coordgen will be supported. Using Coordgen libraries at /usr/local/lib/libcoordgen.so.
+-- Found PkgConfig: /usr/bin/pkg-config (found version "0.29") 
+-- Found RapidJSON: /usr/include (found suitable version "1.1.0", minimum required is "1.1.0") 
+-- JSON formats will be supported. Using RapidJSON 1.1.0 at /usr/include
+-- Checking for module 'cairo'
+--   Found cairo, version 1.16.0
+-- Found Cairo: /usr/lib/x86_64-linux-gnu/libcairo.so  
+-- Cairo found. PNG output will be supported.
+-- Found Perl: /usr/bin/perl (found version "5.28.1") 
+-- Found Boost: /usr/include (found suitable version "1.67.0", minimum required is "1.45.0") found components: system 
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Check if compiler accepts -pthread
+-- Check if compiler accepts -pthread - yes
+-- Found Threads: TRUE  
+-- Found Boost: /usr/include (found version "1.67.0") found components: program_options iostreams regex 
+-- Looking for getopt
+-- Looking for getopt - found
+-- Attempting to build the GUI
+--    wxWidgets found => GUI will be built
+-- Found PythonInterp: /usr/bin/python (found version "3.7.3") 
+CMake Deprecation Warning at scripts/CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Configuring done (3.8s)
+-- Generating done (0.5s)
+-- Build files have been written to: /home/biocheming/tests/openbabel-master/cmake-build-debug
