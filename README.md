@@ -6,6 +6,12 @@ Open Babel
 [![Travis CI](https://img.shields.io/travis/openbabel/openbabel.svg)](https://travis-ci.org/openbabel/openbabel)
 [![Google Scholar Citations](https://openbabel.org/citations.svg?maxAge=86400)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13319995025871922899&as_sdt=5)
 
+[RECENT UPDATE]
+1. pdbqtformat
+2. mol2format
+3. forcefield.cpp forcefield.h
+4. obminimize.cpp
+
 Open Babel is a chemical toolbox designed to speak the many languages
 of chemical data. It's an open, collaborative project allowing anyone
 to search, convert, analyze, or store data from molecular modeling,
