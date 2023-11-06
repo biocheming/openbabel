@@ -83,9 +83,9 @@ int main(int argc,char **argv)
     cout << "  -cut        use cut-off (default=don't use cut-off)" << endl;
     cout << endl;
     cout << "  ------ extra constraints -----" << endl;
-    cout << "  -ho  false   optimize hydrogen only" << endl;
+    cout << "  -ho          optimize hydrogen only" << endl;
     cout << "  -fc  0.01    constrained atoms with occupancy ！= 0.01,\n" // if occupancy = 0.01, then this atom is free
-            "               and constraints factor were set to occupancy*constraint factor scale"  << endl;
+            "               and constraints factor were set to occupancy*constraint_factor_scale"  << endl;
     cout << "  -fsc 100     constraint factor scale" << endl;
     cout << "  -fix 1.00    atoms with occupancy = 1.00 to be fixed" << endl;
     cout << "  -----end extra constraints----" << endl;
