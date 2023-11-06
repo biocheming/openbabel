@@ -31,9 +31,9 @@ options:      description:
 
   ------ extra constraints -----
   -ho          optimize hydrogen only
-  -fc  0.01    constrained atoms with occupancy ！= 0.01,
-               and constraints factor were set to occupancy*constraint factor scale
-  -fsc 100     constraint factor scale
+  -fc  0.01    constrained atoms with occupancy > 0.01,
+               and constraints factor were set to occupancy*constraint_factor_scale
+  -fsc 100     constraint_factor_scale
   -fix 1.00    atoms with occupancy = 1.00 to be fixed
   -----end extra constraints----
   -rvdw rvdw  specify the VDW cut-off distance (default=6.0)
