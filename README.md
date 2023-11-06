@@ -30,7 +30,7 @@ options:      description:
   -cut        use cut-off (default=don't use cut-off)
 
   ------ extra constraints -----
-  -ho  false   optimize hydrogen only
+  -ho          optimize hydrogen only
   -fc  0.01    constrained atoms with occupancy ！= 0.01,
                and constraints factor were set to occupancy*constraint factor scale
   -fsc 100     constraint factor scale
